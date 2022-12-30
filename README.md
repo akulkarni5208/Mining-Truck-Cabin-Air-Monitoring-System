@@ -6,6 +6,8 @@ environments like mines. Driver health and alertness while driving is key to avo
 accidents at work site. Sometimes air quality deteriorates inside the cabin, and this could 
 lead to driver fatigue. So come up with a solution that can detect air quality level inside 
 the cabin, and at the same time alerting the driver as well as fleet management.
+
+
 ## HEALTH EFFECTS OF MINING
 
 1. The mercury used in mining causes a number of different health problems, 
@@ -19,7 +21,7 @@ activities such as blasting and drilling.
 ## 3D designs:
 ![image](https://user-images.githubusercontent.com/120801447/210066277-55621880-6563-4bc4-afe9-76f1332c980d.png)
 ## CAE ANALYSIS
-# Type of FEM Analysis and Justification
+### Type of FEM Analysis and Justification
 Air flow simulation was carried out on ANSYS to study the air flow pattern inside the 
 cabin to determine the optimal location for placing the sensors to measure the pollutants 
 and to get accurate results.
@@ -50,4 +52,5 @@ pollutants accurately. Finally, it was agreed to install the sensor at some heig
 away from places where external sources could significantly affect the air quality. Since 
 the sensor's response time is 1 sec, we decided to position the device where air flow 
 velocity is almost at 0 or in a state of near stagnation.
-
+ # poster
+ ![image](https://user-images.githubusercontent.com/120801447/210067120-794f9319-8921-4c18-a21d-0e86ee972557.png)
